@@ -4,8 +4,8 @@
   "description": "A websocket server for the meetingapp",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start" "node node_modules/@aspot/websocket/lib/server.js 80"
+    "start": "node node_modules/@aspot/websocket/lib/server.js 80",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",

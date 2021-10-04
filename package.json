@@ -1,0 +1,23 @@
+{
+  "name": "meetingappwebsocket",
+  "version": "1.0.0",
+  "description": "A websocket server for the meetingapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" "node node_modules/@aspot/websocket/lib/server.js 80"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/e2thex/meetingappwebsocket.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/e2thex/meetingappwebsocket/issues"
+  },
+  "homepage": "https://github.com/e2thex/meetingappwebsocket#readme",
+  "dependencies": {
+    "@aspot/websocket": "^0.2.5"
+  }
+}

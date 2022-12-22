@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/e2thex/meetingappwebsocket#readme",
   "dependencies": {
-    "@aspot/websocket": "^0.3.3"
+    "@aspot/websocket": "^0.6.2"
   }
 }
